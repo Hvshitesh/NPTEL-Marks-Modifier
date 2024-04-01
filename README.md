@@ -7,7 +7,7 @@
 1. Clone the repository using the following commands:
 
     ```bash
-    git clone https://github.com/hackerspider09/NPTEL-Marks-Modifier
+    git clone https://github.com/Hvshitesh/NPTEL-Marks-Modifier
     ```
 
 ### Option 2: Download as ZIP
